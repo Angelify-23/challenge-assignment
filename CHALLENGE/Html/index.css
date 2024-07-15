@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(183, 201, 201);
+    font-family: sans-serif;
+    height: 100%;
+    position: relative;
+}
+.carda{
+    padding: 20px;
+}
+.carda h3{
+    color:rgb(19, 141, 145);
+}
+.carda h4{
+    color: rgb(152, 252, 51);
+}
+.carda p{
+    color: rgb(95, 95, 95);
+}
+.card2{
+    display: flex;
+    width: 100%;
+    border: none;
+}
+.cardb{
+background-color: rgb(19, 156, 124);
+color: azure;
+width: 50%;
+padding: 20px;
+}
+.cardb .subscribe h2 small{
+    text:10px;
+}
+.cardb button{
+    background-color:  rgb(152, 252, 51);
+    color: rgb(252, 246, 228);
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+    width:170px ;
+    box-shadow: 70px ;
+}
+.cardc{
+background-color: rgb(34, 177, 146);
+color: azure;
+width: 50%;
+padding: 20px;
+}
+.cardc .why h5{
+    padding-left: 40px;
+}
+.cardc ul li{
+    list-style: none;
+}
